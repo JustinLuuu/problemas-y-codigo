@@ -1,3 +1,5 @@
+// Documentacion : 
+
 
 function reemplazar(oracion, palabraElim, palabraAgr){
   const arrayOracion = oracion.split(" ");
