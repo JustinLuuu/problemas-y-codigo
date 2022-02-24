@@ -6,9 +6,8 @@ function reemplazar(oracion, palabraElim, palabraAgr){
   if(indicePalabraElim >= 0) {
     arrayOracion[indicePalabraElim] = palabraAgr;
     return arrayOracion.join(" ")
-  } else {
-    return `La palabra '${palabraElim}' no se encuentra en '${oracion}'`
   }
+   return `La palabra '${palabraElim}' no se encuentra en '${oracion}'`;
 }
 
 
