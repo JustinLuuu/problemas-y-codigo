@@ -1,6 +1,5 @@
 // Documentacion : 
 
-
 function reemplazar(oracion, palabraElim, palabraAgr){
   const arrayOracion = oracion.split(" ");
   const indicePalabraElim = arrayOracion.indexOf(palabraElim);
