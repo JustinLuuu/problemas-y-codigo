@@ -13,6 +13,6 @@ function reemplazar(oracion, palabraElim, palabraAgr){
 
 
 const resultado =
-reemplazar('Pepe pela papas con un pico', 'pela', 'Justin' );
+reemplazar('Pepe pela papas con un pico', 'Pepe', 'Justin' );
 
 console.log(resultado);
