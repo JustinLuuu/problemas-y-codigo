@@ -16,8 +16,8 @@ function reemplazar(oracion, palabraElim, palabraAgr){
 }
 
 
-const nuevaCadena =
+const resultado =
 reemplazar('Pepe pela papas con un pico', 'Pepe', 'Justin' );
 
-console.log(nuevaCadena);
+console.log(resultado);
 
