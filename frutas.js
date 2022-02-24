@@ -1,4 +1,4 @@
-// documentacion de resolucion: 
+// documentacion : 
 
 
 const canastaFrutas = [
