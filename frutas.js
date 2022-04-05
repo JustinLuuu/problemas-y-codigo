@@ -1,5 +1,3 @@
-// documentacion : 
-
 
 const canastaFrutas = [
   "banana",
